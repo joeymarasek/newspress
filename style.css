@@ -13,5 +13,19 @@ License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: newspress
 */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Special Elite", cursive;
+  font-weight: 400;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 200;
+}
 
 /*# sourceMappingURL=style.css.map */
